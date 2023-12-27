@@ -1,7 +1,5 @@
 package ru.itis.inf304.linkedlist;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class LinkedList {
     private Node head;
     public void input (int data) {
